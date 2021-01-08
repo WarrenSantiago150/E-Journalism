@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Ejournalism</string>
+    <string name="logo">Logo</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+    <string name="editorial">Editorial</string>
+    <string name="feature">Feature</string>
+    <string name="header">Header</string>
+    <string name="write_your_entry_here">WRITE YOUR ENTRY HERE !</string>
+    <string name="input_here">Input Here</string>
+    <string name="bg">BG</string>
+    <string name="sample">Button</string>
+    <string name="news_writing">News Writing</string>
+    <string name="feature_writing">Feature Writing</string>
+    <string name="science_writing">Science Writing</string>
+    <string name="sports_writing">Sports Writing</string>
+    <string name="photo_writing">Photo Writing</string>
+    <string name="categories">CATEGORIES</string>
+    <string name="todo">TODO</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="welcome">WELCOME</string>
+    <string name="editorial_writing">Editorial Writing</string>
+    <string name="participants">Participants</string>
+    <string name="user_type">User Type</string>
+    <string name="science_hd">science_hd</string>
+    <string name="cat_header">header</string>
+    <string name="category">category</string>
+    <string name="judge_header">judge_header</string>
+    <string name="register">REGISTER</string>
+    <string name="add_account">Add Account</string>
+    <string name="user_name">User Name</string>
+    <string name="username">Username</string>
+    <string name="headerrr">headerrr</string>
+    <string name="participants_entry">PARTICIPANTS ENTRY</string>
+    <string name="participants_name">Participants Name</string>
+    <string name="textview">textview</string>
+    <string name="back">Back</string>
+    <string name="logout">LOGOUT</string>
+    <string name="user_information">User Information</string>
+    <string name="emil">emil</string>
+    <string name="nem">nem</string>
+    <string name="pas">pas</string>
+    <string name="taip">taip</string>
+    <string name="emaillll">Email :</string>
+    <string name="name">Name :</string>
+    <string name="passwordd">Password:</string>
+    <string name="namee">Name:</string>
+    <string name="emaill">Email:</string>
+    <string name="usertype">Usertype:</string>
+    <string name="backk">back</string>
+
+    //dropdown menu
+    <string-array name="user_types">
+        <item>Participant</item>
+        <item>Admin</item>
+        <item>News Writing Judge</item>
+        <item>Feature Writing Judge</item>
+        <item>Sports Writing Judge</item>
+        <item>Editorial Writing Judge</item>
+        <item>Science Writing Judge</item>
+        <item>Photo Journalism Judge</item>
+    </string-array>
+    //dropdown menu
+
+</resources>

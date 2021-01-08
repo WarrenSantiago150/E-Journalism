@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151796003108",
+    "project_id": "ejournalism-80ec7",
+    "storage_bucket": "ejournalism-80ec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151796003108:android:e4b4139329aa4bc94c03b1",
+        "android_client_info": {
+          "package_name": "com.example.ejournalism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151796003108-i3tsm1msje0v2tvs0olc7vobhnj878fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQKSqI87L2eKkS-GqevnuM_hKUGQ5Q5J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151796003108-i3tsm1msje0v2tvs0olc7vobhnj878fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
